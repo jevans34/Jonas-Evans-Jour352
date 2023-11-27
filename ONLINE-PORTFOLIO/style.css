@@ -126,27 +126,3 @@ button:hover {
     
 }
 
-/*xsmall*/
-@media {
-    h1 {
-      font-size: 60px;
-        margin-top: 0px;
-    }
-    
-    h2 {
-        font-size: 20px;
-    }
-    h3{
-        
-    }
-    #contact-button {
-        
-    }
-    img {
-       width: 100px;
-        border-width: 5px;
-    }
-    #topper {
-        
-    }
-}
